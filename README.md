@@ -4,5 +4,4 @@
 <br>
 🚀 I enjoy working on backend-heavy systems and async-first environments.
 
-- 💬 Ask me about **Elixir**, **Phoenix**, **LiveView**, and system architecture  
 - 📫 Reach me at: **niebiel@gmail.com**
