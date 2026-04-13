@@ -4,4 +4,7 @@
 <br>
 🚀 I enjoy working on backend-heavy systems and async-first environments.
 
-- 📫 Reach me at: **niebiel@gmail.com**
+<p>
+  📫 Email: <a href="mailto:niebiel@gmail.com">niebiel@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/olaf-bado/">www.linkedin.com/in/olaf-bado/</a>
+</p>
